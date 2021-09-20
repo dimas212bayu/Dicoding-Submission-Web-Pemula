@@ -11,7 +11,7 @@ This is a project for my learning record and this is a web beginner submission f
      alt="Mobile display"
      width="414" /> 
      
- <img src="https://raw.githubusercontent.com/rizalfahrudin879/DicodingSubmissionWebPemula/master/assets/image/Screenshot_2019-08-19_09-34-12.png"
+ <img src="https://image-cdn.medkomtek.com/nQC5iT7YtZmw9_N9C5j6dV4OV_U=/1200x675/smart/klikdokter-media-buckets/medias/2315206/original/052777000_1590549506-Menkes-Mewajibkan-Perusahaan-Sediakan-Vitamin-C-Mengapa-Jadi-Penting-shutterstock_1354755788.jpg"
      alt="Desktop display "
      width="100%" />
      
@@ -24,4 +24,4 @@ This is a project for my learning record and this is a web beginner submission f
 - [x] Responsive on mobile midle width 321 - 425px
 
 ## Author
-* #### Rizal Fahrudin
+* #### ASLAB INF
